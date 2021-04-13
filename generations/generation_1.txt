@@ -1,0 +1,6 @@
+We reach this vector after generation 28 where we mutated our best vector after
+28th generation by multiplying vector with powers of 2. And we got this vector
+as (2^-1)* best vector of 28th generation.
+
+To see all required information about ith generation , please navigate to
+day{$i} directory. 

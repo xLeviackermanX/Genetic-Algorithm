@@ -1,0 +1,2 @@
+We got this vector after 877 generations  , though it's best vector accoring to
+train error and val error still we are getting high error for this vector.
