@@ -1,1 +1,2 @@
 # Genetic-Algorithm
+In our course "Machine learning " we were given limited number of api calls to make on the data set on which we were required to train our model. We were required to predict weight of vectors which have least error or is closest to the actual vector. Here we have tried many different values for different-different parameters and finally decided on best values according our observation. You can get a brief idea about the observation in report.pdf
